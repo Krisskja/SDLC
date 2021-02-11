@@ -1,0 +1,2 @@
+# SDLC
+tarkvara arendusprotsess lehekylg
